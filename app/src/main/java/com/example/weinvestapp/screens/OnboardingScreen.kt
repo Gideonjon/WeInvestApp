@@ -6,6 +6,14 @@ import androidx.navigation.NavHostController
 
 @Composable
 fun OnboardingScreen(navController: NavHostController){
+Box(
 
+
+){
 
 }
+
+}
+
+@Composable
+@Preview()
